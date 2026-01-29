@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 # FastAPI backend URL
-API_URL = "http://localhost:5000"
+API_URL = "http://127.0.0.1:8000"
 
 st.title("Loan Prediction App")
 
